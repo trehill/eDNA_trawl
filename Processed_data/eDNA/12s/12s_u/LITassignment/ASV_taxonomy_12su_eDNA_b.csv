@@ -1,0 +1,36 @@
+ASV,level,LCT,order,family,genus,species,all_species
+ASV207,species,Alosa sapidissima,Clupeiformes,Clupeidae,Alosa,Alosa sapidissima,Alosa sapidissima
+ASV7,species,Anoplopoma fimbria,Scorpaeniformes,Anoplopomatidae,Anoplopoma,Anoplopoma fimbria,Anoplopoma fimbria
+ASV32,species,Citharichthys stigmaeus,Pleuronectiformes,Paralichthyidae,Citharichthys,Citharichthys stigmaeus,Citharichthys stigmaeus
+ASV1,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV136,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV18,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV19,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV433,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV542,species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+ASV41,species,Cryptacanthodes aleutensis,Perciformes,Cryptacanthodidae,Cryptacanthodes,Cryptacanthodes aleutensis,Cryptacanthodes aleutensis
+ASV11,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV27,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV137,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV2,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV592,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV88,species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+ASV15,species,Glyptocephalus zachirus,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus zachirus,Glyptocephalus zachirus
+ASV64,species,Glyptocephalus zachirus,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus zachirus,Glyptocephalus zachirus
+ASV378,species,Glyptocephalus zachirus,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus zachirus,Glyptocephalus zachirus
+ASV3,species,Merluccius productus,Gadiformes,Merlucciidae,Merluccius,Merluccius productus,Merluccius productus
+ASV83,species,Oncorhynchus gorbuscha,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha
+ASV9,species,Oncorhynchus gorbuscha,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha
+ASV12,species,Oncorhynchus keta,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus keta,Oncorhynchus keta
+ASV5,species,Oncorhynchus kisutch,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus kisutch,Oncorhynchus kisutch
+ASV8,species,Oncorhynchus nerka,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus nerka,Oncorhynchus nerka
+ASV4,species,Oncorhynchus nerka,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus nerka,Oncorhynchus nerka
+ASV13,species,Oncorhynchus tshawytscha,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha
+ASV47,species,Pholis laeta,Perciformes,Pholidae,Pholis,Pholis laeta,Pholis laeta
+ASV29,species,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,Sebastes
+ASV16,species,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,Sebastes
+ASV14,species,Thaleichthys pacificus,Osmeriformes,Osmeridae,Thaleichthys,Thaleichthys pacificus,Thaleichthys pacificus
+NA,NA,NA,NA,NA,NA,NA,NA
+ASV6,genus,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,"Sebastes aleutianus, Sebastes alutus, Sebastes babcocki, Sebastes brevispinis, Sebastes elongatus, Sebastes emphaeus, Sebastes flavidus, Sebastes goodei, Sebastes helvomaculatus, Sebastes melanops, Sebastes melanostictus, Sebastes miniatus, Sebastes proriger, Sebastes rosaceus, Sebastes ruberrimus, Sebastes variegatus, Sebastes wilsoni, Sebastes zacentrus"
+ASV17,genus,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,"Sebastes ciliatus, Sebastes crameri, Sebastes polyspinis, Sebastes reedi, Sebastes variabilis"
+ASV37,genus,Xiphister atropurpureus/mucosus,Perciformes,Stichaeidae,Xiphister,Xiphister atropurpureus/mucosus,"Xiphister atropurpureus, Xiphister mucosus"

@@ -1,0 +1,21 @@
+level,LCT,order,family,genus,species,all_species
+species,Alosa sapidissima,Clupeiformes,Clupeidae,Alosa,Alosa sapidissima,Alosa sapidissima
+species,Anoplopoma fimbria,Scorpaeniformes,Anoplopomatidae,Anoplopoma,Anoplopoma fimbria,Anoplopoma fimbria
+species,Citharichthys stigmaeus,Pleuronectiformes,Paralichthyidae,Citharichthys,Citharichthys stigmaeus,Citharichthys stigmaeus
+species,Clupea pallasii,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,Clupea pallasii
+species,Cryptacanthodes aleutensis,Perciformes,Cryptacanthodidae,Cryptacanthodes,Cryptacanthodes aleutensis,Cryptacanthodes aleutensis
+species,Gadus chalcogrammus,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,Gadus chalcogrammus
+species,Glyptocephalus zachirus,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus zachirus,Glyptocephalus zachirus
+species,Merluccius productus,Gadiformes,Merlucciidae,Merluccius,Merluccius productus,Merluccius productus
+species,Oncorhynchus gorbuscha,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha
+species,Oncorhynchus keta,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus keta,Oncorhynchus keta
+species,Oncorhynchus kisutch,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus kisutch,Oncorhynchus kisutch
+species,Oncorhynchus nerka,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus nerka,Oncorhynchus nerka
+species,Oncorhynchus tshawytscha,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha
+species,Pholis laeta,Perciformes,Pholidae,Pholis,Pholis laeta,Pholis laeta
+species,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,Sebastes
+species,Thaleichthys pacificus,Osmeriformes,Osmeridae,Thaleichthys,Thaleichthys pacificus,Thaleichthys pacificus
+NA,NA,NA,NA,NA,NA,NA
+genus,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,"Sebastes aleutianus, Sebastes alutus, Sebastes babcocki, Sebastes brevispinis, Sebastes elongatus, Sebastes emphaeus, Sebastes flavidus, Sebastes goodei, Sebastes helvomaculatus, Sebastes melanops, Sebastes melanostictus, Sebastes miniatus, Sebastes proriger, Sebastes rosaceus, Sebastes ruberrimus, Sebastes variegatus, Sebastes wilsoni, Sebastes zacentrus"
+genus,Sebastes,Scorpaeniformes,Sebastidae,Sebastes,Sebastes,"Sebastes ciliatus, Sebastes crameri, Sebastes polyspinis, Sebastes reedi, Sebastes variabilis"
+genus,Xiphister atropurpureus/mucosus,Perciformes,Stichaeidae,Xiphister,Xiphister atropurpureus/mucosus,"Xiphister atropurpureus, Xiphister mucosus"
