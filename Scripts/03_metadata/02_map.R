@@ -166,4 +166,54 @@ ggsave("./Outputs/metadata/samples.png",
        plot = map.for.samples,
        width = 15, height = 10, units = "in")
 
+#### Determining smallest distance between two sites
+# Install and load the geosphere package if not already installed
+if (!requireNamespace("geosphere", quietly = TRUE)) {
+  install.packages("geosphere")
+}
+library(geosphere)
+
+map <- map %>%
+  rename(set_number = set_number,
+         lat = lat_door_in_dd,
+         lon = long_door_in_dd)
+
+# Assuming you already have your 'map' dataset loaded
+
+# Function to calculate distance between two points using Haversine formula
+calculate_distance <- function(lat1, lon1, lat2, lon2) {
+  dist <- distHaversine(c(lon1, lat1), c(lon2, lat2))
+  return(dist)
+}
+
+# Function to find smallest distance between two set numbers
+find_smallest_distance <- function(map_data, set_number1, set_number2) {
+  # Filter data for the two set numbers
+  data1 <- subset(map_data, set_number == set_number1)
+  data2 <- subset(map_data, set_number == set_number2)
+  
+  # Initialize smallest distance
+  smallest_distance <- Inf
+  
+  # Iterate through all combinations of points and find smallest distance
+  for (i in 1:nrow(data1)) {
+    for (j in 1:nrow(data2)) {
+      dist <- calculate_distance(data1[i, "lat"], data1[i, "lon"],
+                                 data2[j, "lat"], data2[j, "lon"])
+      if (dist < smallest_distance) {
+        smallest_distance <- dist
+      }
+    }
+  }
+  
+  return(smallest_distance)
+}
+
+# Example usage:
+# Assuming 'map' is your dataset
+set_number1 <- 1
+set_number2 <- 2
+smallest_dist <- find_smallest_distance(map, set_number1, set_number2)
+cat("Smallest distance between set number", set_number1, "and", set_number2, "is:", smallest_dist, "meters\n")
+
 
